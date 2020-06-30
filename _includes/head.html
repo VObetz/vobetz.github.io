@@ -4,7 +4,7 @@
 {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
 
 <!-- MathJax -->
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
 {% if site.owner.twitter %}<!-- Twitter Cards -->
 {% if page.image.feature %}<meta name="twitter:card" content="summary_large_image">
@@ -48,10 +48,6 @@
 
 <meta http-equiv="cleartype" content="on">
 
-<!-- Load Modernizr -->
-<script src="{{ site.url }}/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
-
-
 {% if page.image.background or site.background %}
 
 {% capture background %}{% if page.image.background %}{{ page.image.background }}{% else %}{{ site.background }}{% endif %}{% endcapture %}
@@ -60,3 +56,6 @@
 
 <style type="text/css">body {background-image:url({{ background }});}</style>
 {% endif %}
+
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+

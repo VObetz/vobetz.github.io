@@ -3,17 +3,26 @@ layout: post-index
 ---
 {% for post in paginator.posts %}
 <article>
+    
+    <!-- POST FEATURED IMAGE -->
+    <div class="featured-image">
+    <img src="{{ post.featured-image}}" style="width:100%">
+    </div>
+
     <!-- POST TITLE -->
     <header>
         <h1 class="entry-title">
             <a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a>
         </h1>
+        <h3 class="entry-subtitle">
+            <a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.subtitle }}</a>
+        </h3>
     </header>
-    
+
     <!-- POST CONTENT -->
-    <div class="entry-content">
+<!--     <div class="entry-content">
         {{ post.content }}
-    </div>
+    </div> -->
     
     <!--- DIVIDING LINE -->
     <hr>
