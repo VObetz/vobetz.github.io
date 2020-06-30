@@ -3,11 +3,9 @@ layout: post
 title: About
 ---
 <p>
-###### This theme is available for free under the MIT open source software license.
+I am highly driven and analytical, yet personable and communicative.  I have experience in research, statistics, policy analysis, and program evaluation. 
 <br>
-###### The theme can be found <a href="https://github.com/benradford/Slate-and-Simple-Jekyll-Theme">here</a>.
-<br>
-###### The theme requires <a href="https://jekyllrb.com">Jekyll</a>, a static-site generator compatible with <a href="https://pages.github.com">pages.github.com</a>.
+My publications can be found <a href="https://scholar.google.com/citations?user=sYILIrcAAAAJ">here</a>.
 </p>
 
 <hr>
@@ -23,5 +21,9 @@ Nunc tellus justo, pharetra sit amet blandit nec, mattis eu turpis. Praesent eff
 <hr>
 
 <p>
-Phasellus pellentesque odio eget massa finibus, in aliquam lectus tincidunt. Suspendisse potenti. Fusce nisi ipsum, facilisis sed nunc non, congue gravida augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ut elementum nulla. Ut iaculis elit ac lectus elementum, mollis porta ex ultricies. Maecenas pretium lectus quis vulputate feugiat. Curabitur vitae ex in eros eleifend volutpat vitae sed dui.
+This theme is available for free under the MIT open source software license.
+<br>
+The theme can be found <a href="https://github.com/benradford/Slate-and-Simple-Jekyll-Theme">here</a>.
+<br>
+The theme requires <a href="https://jekyllrb.com">Jekyll</a>, a static-site generator compatible with <a href="https://pages.github.com">pages.github.com</a>.
 </p>
