@@ -1,9 +1,12 @@
 ---
-layout: post
 title: "Descriptive Analysis"
-author: "Vanessa Obetz"
-output: html_document
+date-string: JUNE 15, 2020
+layout: post
+tags: sample post
+categories: posts
 ---
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.9.1.min.js"><\/script>')</script>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
