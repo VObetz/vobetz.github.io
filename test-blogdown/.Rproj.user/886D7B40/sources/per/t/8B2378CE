@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1593571453650.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3039777442",
+    "id" : "8B2378CE",
+    "lastKnownWriteTime" : 1593571640,
+    "last_content_update" : 1593571640290,
+    "path" : "~/GitHub/vobetz.github.io/test-blogdown/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "26,20",
+        "scrollLine" : "12"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
